@@ -31,10 +31,5 @@ node_modules
 
 # Config and data.
 config.json
-auth_config.json
 data.json
 dist
-SuggestLinking/.env
-RegularWebApp/.env
-SPA/auth0-variables.js
-auth_config.json
